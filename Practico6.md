@@ -1,4 +1,4 @@
-![Lumetrio](./images/readme/Portada.png)
+![Lumetrio](./images/Portada.png)
 <h1 align="center">Práctico 6: Creá tu archivo gitignore </a></h1>
 
 Estudiante: Federico Gutierrez

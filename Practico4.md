@@ -1,4 +1,4 @@
-![Lumetrio](./images/readme/Portada.png)
+![Lumetrio](./images/Portada.png)
 <h1 align="center">Práctico 4: Probando nuestra maquina del tiempo</a></h1>
 
 Estudiante: Federico Gutierrez

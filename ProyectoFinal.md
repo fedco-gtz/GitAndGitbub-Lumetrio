@@ -1,4 +1,4 @@
-![Lumetrio](./images/readme/Portada.png)
+![Lumetrio](./images/Portada.png)
 
 Estudiante: Federico Gutierrez
 

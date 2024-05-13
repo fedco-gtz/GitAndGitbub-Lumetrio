@@ -1,4 +1,4 @@
-![Lumetrio](./images/readme/Portada.png)
+![Lumetrio](./images/Portada.png)
 <h1 align="center">Práctico 3: Subir solo un archivo y usar git add.</a></h1>
 
 Estudiante: Federico Gutierrez
